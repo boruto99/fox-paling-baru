@@ -1,5 +1,11 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
+nav_items:
+  - label: Teras Fox
+    path: /
+  - label: Website Murh di Jual
+    path: /products/
+  - label: Artikel Berfaedah
+    path: /news
+  - label: Kebijakan
+    path: /kebijakan
+  - label: Blog iko
+    path: 'https://www.iko.ooo'
