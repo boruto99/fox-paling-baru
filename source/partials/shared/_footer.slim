@@ -1,3 +1,17 @@
 footer
   = partial 'partials/shared/header-primary'
-  Foxweb merupakan situs penyedi jasa
+
+    nav.navigation
+      ul
+        - data.settings.navigation.nav_items.each do | nav_item |
+          li
+            = nav_link nav_item.label, nav_item.path
+  
+    .social
+          .icons
+            = link_to 'https://www.facebook.com/teguhadang'
+              = image_tag "social/facebook.svg"
+            = link_to 'htttps://www.instagram.com/teguhadang'
+              = image_tag "social/twitter.svg"
+            = link_to 'https://www.instagram.com/dr.emte'
+              = image_tag "social/instagram.svg"
