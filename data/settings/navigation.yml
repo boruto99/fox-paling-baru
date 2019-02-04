@@ -6,6 +6,6 @@ nav_items:
   - label: Artikel Berfaedah
     path: /news
   - label: Kebijakan
-    path: /kebijakan
+    path: news/2019/kebijakan-media-siber/
   - label: Blog iko
     path: 'https://www.iko.ooo'
