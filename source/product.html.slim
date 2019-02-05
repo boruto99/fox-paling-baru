@@ -4,5 +4,8 @@
     .meta
       h1 = product.title
 
+      .price
+        - currency = data.settings.units.currency || 'Rp ' 
+        span = currency + product.price 
     .body
       = markdown product.body
