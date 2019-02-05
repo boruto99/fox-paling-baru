@@ -5,25 +5,19 @@ description: >-
   Media siber memiliki karakter khusus sehingga memerlukan pedoman agar
   pengelolaannya dapat dilaksanakan secara profesional, memenuhi fungsi, hak,
   dan kewajibannya sesuai UU Nomor 40 Tahun 1999
-image: /images/uploads/pedoman-media-siber-foxweb.jpg
+image: /images/uploads/security-265130_1920.jpg
 ---
 PEDOMAN PEMBERITAAN MEDIA SIBER
 
 Kemerdekaan berpendapat, kemerdekaan berekspresi, dan kemerdekaan pers adalah hak asasi manusia yang dilindungi Pancasila, Undang-Undang Dasar 1945, dan Deklarasi Universal Hak Asasi Manusia PBB. Keberadaan media siber di Indonesia juga merupakan bagian dari kemerdekaan berpendapat, kemerdekaan berekspresi, dan kemerdekaan pers.
 
-
-
 Media siber memiliki karakter khusus sehingga memerlukan pedoman agar pengelolaannya dapat dilaksanakan secara profesional, memenuhi fungsi, hak, dan kewajibannya sesuai Undang-Undang Nomor 40 Tahun 1999 tentang Pers dan Kode Etik Jurnalistik. Untuk itu Dewan Pers bersama organisasi pers, pengelola media siber, dan masyarakat menyusun Pedoman Pemberitaan Media Siber sebagai berikut:
-
-
 
 1. Ruang Lingkup
 
 a. Media Siber adalah segala bentuk media yang menggunakan wahana internet dan melaksanakan kegiatan jurnalistik, serta memenuhi persyaratan Undang-Undang Pers dan Standar Perusahaan Pers yang ditetapkan Dewan Pers.
 
 b. Isi Buatan Pengguna (User Generated Content) adalah segala isi yang dibuat dan atau dipublikasikan oleh pengguna media siber, antara lain, artikel, gambar, komentar, suara, video dan berbagai bentuk unggahan yang melekat pada media siber, seperti blog, forum, komentar pembaca atau pemirsa, dan bentuk lain.
-
-
 
 2. Verifikasi dan keberimbangan berita
 
@@ -33,17 +27,12 @@ b. Berita yang dapat merugikan pihak lain memerlukan verifikasi pada berita yang
 
 c. Ketentuan dalam butir (a) di atas dikecualikan, dengan syarat:
 
-1) Berita benar-benar mengandung kepentingan publik yang bersifat mendesak;
-
-2) Sumber berita yang pertama adalah sumber yang jelas disebutkan identitasnya, kredibel dan kompeten;
-
-3) Subyek berita yang harus dikonfirmasi tidak diketahui keberadaannya dan atau tidak dapat diwawancarai;
-
-4) Media memberikan penjelasan kepada pembaca bahwa berita tersebut masih memerlukan verifikasi lebih lanjut yang diupayakan dalam waktu secepatnya. Penjelasan dimuat pada bagian akhir dari berita yang sama, di dalam kurung dan menggunakan huruf miring.
+1. Berita benar-benar mengandung kepentingan publik yang bersifat mendesak;
+2. Sumber berita yang pertama adalah sumber yang jelas disebutkan identitasnya, kredibel dan kompeten;
+3. Subyek berita yang harus dikonfirmasi tidak diketahui keberadaannya dan atau tidak dapat diwawancarai;
+4. Media memberikan penjelasan kepada pembaca bahwa berita tersebut masih memerlukan verifikasi lebih lanjut yang diupayakan dalam waktu secepatnya. Penjelasan dimuat pada bagian akhir dari berita yang sama, di dalam kurung dan menggunakan huruf miring.
 
 d. Setelah memuat berita sesuai dengan butir (c), media wajib meneruskan upaya verifikasi, dan setelah verifikasi didapatkan, hasil verifikasi dicantumkan pada berita pemutakhiran (update) dengan tautan pada berita yang belum terverifikasi.
-
-
 
 3. Isi Buatan Pengguna (User Generated Content)
 
@@ -53,11 +42,9 @@ b. Media siber mewajibkan setiap pengguna untuk melakukan registrasi keanggotaan
 
 c. Dalam registrasi tersebut, media siber mewajibkan pengguna memberi persetujuan tertulis bahwa Isi Buatan Pengguna yang dipublikasikan:
 
-1) Tidak memuat isi bohong, fitnah, sadis dan cabul;
-
-2) Tidak memuat isi yang mengandung prasangka dan kebencian terkait dengan suku, agama, ras, dan antargolongan (SARA), serta menganjurkan tindakan kekerasan;
-
-3) Tidak memuat isi diskriminatif atas dasar perbedaan jenis kelamin dan bahasa, serta tidak merendahkan martabat orang lemah, miskin, sakit, cacat jiwa, atau cacat jasmani.
+1. Tidak memuat isi bohong, fitnah, sadis dan cabul;
+2. Tidak memuat isi yang mengandung prasangka dan kebencian terkait dengan suku, agama, ras, dan antargolongan (SARA), serta menganjurkan tindakan kekerasan;
+3. Tidak memuat isi diskriminatif atas dasar perbedaan jenis kelamin dan bahasa, serta tidak merendahkan martabat orang lemah, miskin, sakit, cacat jiwa, atau cacat jasmani.
 
 d. Media siber memiliki kewenangan mutlak untuk mengedit atau menghapus Isi Buatan Pengguna yang bertentangan dengan butir (c).
 
@@ -69,8 +56,6 @@ g. Media siber yang telah memenuhi ketentuan pada butir (a), (b), (c), dan (f) t
 
 h. Media siber bertanggung jawab atas Isi Buatan Pengguna yang dilaporkan bila tidak mengambil tindakan koreksi setelah batas waktu sebagaimana tersebut pada butir (f).
 
-
-
 4. Ralat, Koreksi, dan Hak Jawab
 
 a. Ralat, koreksi, dan hak jawab mengacu pada Undang-Undang Pers, Kode Etik Jurnalistik, dan Pedoman Hak Jawab yang ditetapkan Dewan Pers.
@@ -81,15 +66,11 @@ c. Di setiap berita ralat, koreksi, dan hak jawab wajib dicantumkan waktu pemuat
 
 d. Bila suatu berita media siber tertentu disebarluaskan media siber lain, maka:
 
-1) Tanggung jawab media siber pembuat berita terbatas pada berita yang dipublikasikan di media siber tersebut atau media siber yang berada di bawah otoritas teknisnya;
-
-2) Koreksi berita yang dilakukan oleh sebuah media siber, juga harus dilakukan oleh media siber lain yang mengutip berita dari media siber yang dikoreksi itu;
-
-3) Media yang menyebarluaskan berita dari sebuah media siber dan tidak melakukan koreksi atas berita sesuai yang dilakukan oleh media siber pemilik dan atau pembuat berita tersebut, bertanggung jawab penuh atas semua akibat hukum dari berita yang tidak dikoreksinya itu.
+1. Tanggung jawab media siber pembuat berita terbatas pada berita yang dipublikasikan di media siber tersebut atau media siber yang berada di bawah otoritas teknisnya;
+2. Koreksi berita yang dilakukan oleh sebuah media siber, juga harus dilakukan oleh media siber lain yang mengutip berita dari media siber yang dikoreksi itu;
+3. Media yang menyebarluaskan berita dari sebuah media siber dan tidak melakukan koreksi atas berita sesuai yang dilakukan oleh media siber pemilik dan atau pembuat berita tersebut, bertanggung jawab penuh atas semua akibat hukum dari berita yang tidak dikoreksinya itu.
 
 e. Sesuai dengan Undang-Undang Pers, media siber yang tidak melayani hak jawab dapat dijatuhi sanksi hukum pidana denda paling banyak Rp500.000.000 (Lima ratus juta rupiah).
-
-
 
 5. Pencabutan Berita
 
@@ -99,33 +80,23 @@ b. Media siber lain wajib mengikuti pencabutan kutipan berita dari media asal ya
 
 c. Pencabutan berita wajib disertai dengan alasan pencabutan dan diumumkan kepada publik.
 
-
-
 6. Iklan
 
 a. Media siber wajib membedakan dengan tegas antara produk berita dan iklan.
 
 b. Setiap berita/artikel/isi yang merupakan iklan dan atau isi berbayar wajib mencantumkan keterangan 'advertorial', 'iklan', 'ads', 'sponsored', atau kata lain yang menjelaskan bahwa berita/artikel/isi tersebut adalah iklan.
 
-
-
 7. Hak Cipta
 
 Media siber wajib menghormati hak cipta sebagaimana diatur dalam peraturan perundang-undangan yang berlaku.
-
-
 
 8. Pencantuman Pedoman
 
 Media siber wajib mencantumkan Pedoman Pemberitaan Media Siber ini di medianya secara terang dan jelas.
 
-
-
 9. Sengketa
 
 Penilaian akhir atas sengketa mengenai pelaksanaan Pedoman Pemberitaan Media Siber ini diselesaikan oleh Dewan Pers.
-
-
 
 Jakarta, 3 Februari 2012
 
