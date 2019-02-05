@@ -5,5 +5,3 @@ description: Seberapa ngebut sih Fox.web.id ....?
 image: /images/uploads/pagespeed.jpg
 ---
 Ngebut banget
-
-![](/images/uploads/gtmetrix.jpg)
